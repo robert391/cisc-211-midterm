@@ -14,6 +14,6 @@ d. see screenshot
 
 a+b
 
-3. a. using 'test' is similar to 'and' but it doesn't change result. if it's 0, it would jump. Otherwise, not. In the data section, I put the messages of what it prints out.
-   b. see code file
-   c. it prints out whenever you run it
+3. a. using 'test' is similar to 'and' but it doesn't change result. if it's 0, it would jump. Otherwise, not. In the data section, I put the messages of what it prints out.\
+b. see code file\
+c. it prints out whenever you run it
